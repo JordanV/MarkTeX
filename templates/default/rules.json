@@ -1,0 +1,32 @@
+{
+	"emph":
+	{
+		"begin":"\\emph{",
+		"end":"}",
+		"delim":"_"
+	},
+	"bold":
+	{
+		"begin":"\\textbf{",
+		"end":"}",
+		"delim":"*"
+	},
+	"section":
+	{
+		"begin":"\\section{",
+		"end":"}",
+		"delim":"="
+	},	
+	"subsection":
+	{
+		"begin":"\\subsection{",
+		"end":"}",
+		"delim":"=="
+	},	
+	"subsubsection":
+	{
+		"begin":"\\subsubsection{",
+		"end":"}",
+		"delim":"==="
+	}
+}

@@ -1,0 +1,39 @@
+= Un exemple complet =
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce cursus interdum felis at aliquam. Cras augue augue, iaculis non tempus non, accumsan sed ligula. Sed pharetra congue augue, consequat iaculis lectus volutpat a. Sed mi augue, posuere quis hendrerit non, luctus eu nisl. Etiam at dui id nisl scelerisque eleifend. Praesent quis accumsan odio. Integer tincidunt lectus sit amet _dolor blandit at ultrices_ urna dictum. Integer sagittis, sem eu pretium faucibus, metus est bibendum ligula, et egestas velit leo quis felis. Vivamus tortor tortor, lobortis at ullamcorper ut, consequat *vitae neque* .
+
+	== Mathématiques == 
+
+	$$
+		x_a + x_b = x_c
+	$$
+
+	\[
+		x_a + x_b = x_c
+	\]
+
+	\begin{equation}
+		x_a + x_b = x_c
+	\end{equation}
+
+	== Listes ==
+
+		=== Listes simples === 
+
+		- Un élément;
+		- Un autre;
+		- Un dernier.
+
+		=== Listes et texte enrichi ===
+
+		- Un élément _enrichi_ de liste;
+		- Un *autre* ;
+
+		=== Listes et texte === 
+
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce cursus interdum felis at aliquam. Cras augue augue, iaculis non tempus non, accumsan sed ligula. Sed pharetra congue augue, consequat iaculis lectus volutpat a. Sed mi augue, posuere quis hendrerit non, luctus eu nisl. Etiam at dui id nisl scelerisque eleifend. Praesent quis accumsan odio. Integer tincidunt lectus sit amet _dolor blandit at ultrices_ urna dictum. Integer sagittis, sem eu pretium faucibus, metus est bibendum ligula, et egestas velit leo quis felis. Vivamus tortor tortor, lobortis at ullamcorper ut, consequat *vitae neque* .
+
+			- Élement 1;
+			- Élément 2.
+
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce cursus interdum felis at aliquam. Cras augue augue, iaculis non tempus non, accumsan sed ligula. Sed pharetra congue augue, consequat iaculis lectus volutpat a. Sed mi augue, posuere quis hendrerit non, luctus eu nisl. Etiam at dui id nisl scelerisque eleifend. Praesent quis accumsan odio. Integer tincidunt lectus sit amet _dolor blandit at ultrices_ urna dictum. Integer sagittis, sem eu pretium faucibus, metus est bibendum ligula, et egestas velit leo quis felis. Vivamus tortor tortor, lobortis at ullamcorper ut, consequat *vitae neque* .
